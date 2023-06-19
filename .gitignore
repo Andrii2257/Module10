@@ -1,7 +1,12 @@
 # Project exclude paths
-/target/
-out/
-.idea/
-*.class
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
 *.iml
-.gitignore
+*.ipr
+.target/*
+*.idea
+*.target
+.src/main/resources/log
